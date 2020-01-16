@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "1010"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EE158D7C1CBD56C400A3E3F0"
-               BuildableName = "RoutingHTTPServer.framework"
-               BlueprintName = "RoutingHTTPServer iOS"
+               BlueprintIdentifier = "1CC3198B2195D038003F0325"
+               BuildableName = "RoutingHTTPServer tvOS.framework"
+               BlueprintName = "RoutingHTTPServer tvOS"
                ReferencedContainer = "container:RoutingHTTPServer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EE158D7C1CBD56C400A3E3F0"
-            BuildableName = "RoutingHTTPServer.framework"
-            BlueprintName = "RoutingHTTPServer iOS"
+            BlueprintIdentifier = "1CC3198B2195D038003F0325"
+            BuildableName = "RoutingHTTPServer tvOS.framework"
+            BlueprintName = "RoutingHTTPServer tvOS"
             ReferencedContainer = "container:RoutingHTTPServer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EE158D7C1CBD56C400A3E3F0"
-            BuildableName = "RoutingHTTPServer.framework"
-            BlueprintName = "RoutingHTTPServer iOS"
+            BlueprintIdentifier = "1CC3198B2195D038003F0325"
+            BuildableName = "RoutingHTTPServer tvOS.framework"
+            BlueprintName = "RoutingHTTPServer tvOS"
             ReferencedContainer = "container:RoutingHTTPServer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
